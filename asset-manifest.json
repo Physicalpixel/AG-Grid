@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/AG-Grid/static/css/main.63bc13d4.css",
-    "main.js": "/AG-Grid/static/js/main.229979b4.js",
-    "static/js/787.1912a3ea.chunk.js": "/AG-Grid/static/js/787.1912a3ea.chunk.js",
+    "main.css": "/AG-Grid/static/css/main.cf627a4e.css",
+    "main.js": "/AG-Grid/static/js/main.0d44894d.js",
     "index.html": "/AG-Grid/index.html",
-    "main.63bc13d4.css.map": "/AG-Grid/static/css/main.63bc13d4.css.map",
-    "main.229979b4.js.map": "/AG-Grid/static/js/main.229979b4.js.map",
-    "787.1912a3ea.chunk.js.map": "/AG-Grid/static/js/787.1912a3ea.chunk.js.map"
+    "main.cf627a4e.css.map": "/AG-Grid/static/css/main.cf627a4e.css.map",
+    "main.0d44894d.js.map": "/AG-Grid/static/js/main.0d44894d.js.map"
   },
   "entrypoints": [
-    "static/css/main.63bc13d4.css",
-    "static/js/main.229979b4.js"
+    "static/css/main.cf627a4e.css",
+    "static/js/main.0d44894d.js"
   ]
 }
